@@ -1,5 +1,5 @@
 ## krunk technolgies##
 <img
-              src="assets\images\UI_KrunkTech.png"
+              src="src\assets\images\UI_KrunkTech.png"
               onClick={search}
             />
